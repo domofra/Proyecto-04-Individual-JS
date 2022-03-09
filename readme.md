@@ -1,10 +1,4 @@
-# ![Image text]()
-
-Design a website to choose a random line from a user list.
-
-// ## See Live Demo at:
-![Image text](assets/img/qr.png) //
-
+# ![Image text](/assets/img/logo.png)
 ## Starting 🚀
 
 - Open VS Code.
