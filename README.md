@@ -1,1 +1,1 @@
-# ![Image text](/assets/img/logo.png)
+# ![Image text](logo.png)
