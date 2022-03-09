@@ -39,11 +39,11 @@ Verifies the proper functioning of the web with the technologies applied to it.
 ## Versions 📌
 
 
-For all available versions, see the [tags in this repository](https://github.com/checkmyprojects/wheel-of-doom.git).
+For all available versions, see the [tags in this repository](https://github.com/domofra/Proyecto-04-Individual-JS).
 
 ## Autor ✒️
 
-Francisco Domínguez 
+domofra
 
 
 
