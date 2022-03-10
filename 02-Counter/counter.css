@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Rubik' , sans-serif;
+    font-family: 'Segoe UI', 'Helvetica Neue';
  }
 
 .container {
@@ -12,19 +12,20 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    background-color:rgb(218, 216, 216);
 }
 
 span {
     font-size: 200px;
     padding: 10px;
-    color:gray;
+    color:rgb(146, 143, 143);
 }
 .btn {
     background: none;
     outline: none;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 12px;
     margin: 5px;
 
 }
